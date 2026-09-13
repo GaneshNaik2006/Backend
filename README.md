@@ -147,12 +147,4 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
 ---
 
-## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/chai-aur-backend/issues).
-
----
-
-## License
-
-This project is licensed under the **ISC License**.
